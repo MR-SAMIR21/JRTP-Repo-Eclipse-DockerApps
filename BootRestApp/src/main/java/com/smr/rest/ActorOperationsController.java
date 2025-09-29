@@ -14,6 +14,7 @@ public class ActorOperationsController {
 	@GetMapping("/wish/{name}")
 	public ResponseEntity<String> showWishMessage(@PathVariable String name){
 		return new ResponseEntity<String>("Good Morning :: "+name,HttpStatus.OK);
+		
 	}
 		
 }
