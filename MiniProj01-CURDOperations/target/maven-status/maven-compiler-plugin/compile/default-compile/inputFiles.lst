@@ -1,0 +1,10 @@
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\config\AppConfigProperties.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\constants\TravelPlanConstants.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\entity\PlanCategory.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\entity\TravelPlan.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\Jrtp701MiniProj01CurdOperationsApplication.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\ms\TravelPlanOperationsController.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\repository\IPlanCategoryRepository.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\repository\ITravelPlanRepository.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\service\ITravelPlanMgmtService.java
+D:\JRTP\JRTP 701 IDE\MiniProj01-CURDOperations\src\main\java\com\smr\service\TravelPlanMgmtServiceImpl.java
