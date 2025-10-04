@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.smr.Jrtp701MiniProj01CurdOperationsApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.581 s -- in com.smr.Jrtp701MiniProj01CurdOperationsApplicationTests
