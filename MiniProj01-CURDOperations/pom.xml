@@ -11,6 +11,7 @@
 	<groupId>smr</groupId>
 	<artifactId>JRTP701-MiniProj01-CURDOperations</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>JRTP701-MiniProj01-CURDOperations</name>
 	<description>MiniProject01</description>
 	<url/>
