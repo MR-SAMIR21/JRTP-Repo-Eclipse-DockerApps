@@ -21,7 +21,7 @@ public class WishMessageServlet extends HttpServlet {
 		//write the message to response object
 		pw.println("<h1 style='color:red;text-align:center'>Hello Good Morning 1234</h1>");
 		//home hyper link
-		pw.println("<br><br><a href='index.jsp'>home</a>");
+		pw.println("<br><br><a href='index.jsp'>home1</a>");
 		//close stream
 		pw.close();
 		
